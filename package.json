@@ -1,0 +1,19 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tejasgithub/react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tejasgithub/react/issues"
+  },
+  "homepage": "https://github.com/Tejasgithub/react#readme"
+}
